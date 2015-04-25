@@ -89,7 +89,7 @@ class AboutIteration < Neo::Koan
     # Extra Credit:
     # Describe in your own words what inject does.
     # inject combines all elements of an array using the operation given
-    # in a block or a function sysmbol
+    # in a block or a function symbol
   end
 
   def test_all_iteration_methods_work_on_any_collection_not_just_arrays
